@@ -1,4 +1,15 @@
-## Hi there 👋
+## Bem vindo ao meu perfil! 👋
+
+Meu nome é Lucas Gabriel
+- Atualmente estudante da [Alura](https://alura.com.br) & [Zion](https://escolazion.com/) 👨‍🎓
+- JavaScript & Modelagem 3D 🧊
+- Farei uso do github para organização e divulgação de meus projetos ✨
+
+### Você pode entrar em contato comigo através desses meios abaixo: 📮
+E-mail: lucas.gsilva.inacio@gmail.com
+
+Site: ???
+
 
 <!--
 **devagua/devagua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
